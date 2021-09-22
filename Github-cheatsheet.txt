@@ -1,0 +1,52 @@
+START:
+git clone url(repository)
+
+
+
+Upload files: (3 steps)
+
+	 Move files into Git-testing folder
+	   git status 
+
+	1- git add nombrearchivo  (mete archivo por archivo)
+	   git add . (mete todos)
+
+	2- git commit -m "este es un nuevo proyecto"  
+
+	3- git push
+
+Working updates 2:
+
+	Both has clone the repository
+
+  Persona 1 modificando:
+	
+	1- Modifica archivo:
+
+	2- git status / git add .  
+
+	3- git commit -m "comentario"    
+
+	4- git push (sube el cambio)
+
+  Persona 2 viendo que se modifico:
+
+	1- git pull
+
+
+Branching (ramificaciones): 
+
+	1- git pull to update
+	
+	2- git branch littlebranch   -->crea la rama
+		o
+	   git checkout -b littlebranch 
+
+	3- git brach --> muestra las ramas existentes y pone con * en la que me encuentro
+
+	4- git checkout littlebranch --> me mueve a littlebrach
+
+	GENERANDO UN CAMBIO DESDE LITTLEBRANCH:
+		Modifico el archivo y procedo con git status/add ./commit -m/ push
+		
+		Aparece pull request en github donde se siguen los pasos para Merge pull request y meterlo al MAIN BRANCH
