@@ -1,0 +1,7 @@
+AI for classification of temporal lobe epilepsy with ROI-level MRI data: a worldwide ENIGMA-Epilepsy study (Ezequiel Gleichgerrcht et al.). No usan dataset público, usan dataset multicentrico. n=336 TLE, n=631 HC. Usan estructural y difu.
+
+Identifying Epilepsy Based on Deep Learning Using DKI Images (Huang et. al) No me gusta como esta escrito, pero habla de que usan kurtosis para identificar cambios patológicos en el tejido cerebral a nivel molecular que pueda ayudar a identificar foco.
+
+EPISURG: a dataset of postoperative magnetic resonance images (MRI) for quantitative analysis of resection neurosurgery for refractory epilepsy. EPISURG is a clinical dataset of T1-weighted magnetic resonance images (MRI) from 430 epileptic patients who underwent resective brain surgery at the National Hospital of Neurology and Neurosurgery (Queen Square, London, United Kingdom) between 1990 and 2018.The dataset comprises 430 postoperative MRI. The corresponding preoperative MRI is present for 269 subjects.The 3D Slicer extension EPISURG may be used to visualise the dataset: https://github.com/fepegar/SlicerEPISURG. https://rdr.ucl.ac.uk/articles/dataset/EPISURG_a_dataset_of_postoperative_magnetic_resonance_images_MRI_for_quantitative_analysis_of_resection_neurosurgery_for_refractory_epilepsy/9996158
+
+
